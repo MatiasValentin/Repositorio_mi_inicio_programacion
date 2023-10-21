@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+}
+
+
+.Titulo{
+    font-style: normal;
+    color: indigo;
+
+}
+
+.Subtitulo{
+    font-style: normal;
+    color: indigo;
+}
+
+.BarraNavegacion{
+    font-style: normal;
+    color: indigo;
+}
+
+.footer{
+    font-style: normal;
+    color: indigo;
+}

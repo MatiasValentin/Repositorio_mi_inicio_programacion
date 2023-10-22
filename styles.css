@@ -23,3 +23,8 @@ body {
     font-style: normal;
     color: indigo;
 }
+
+
+@media screen {max-width: 320px;
+    
+}

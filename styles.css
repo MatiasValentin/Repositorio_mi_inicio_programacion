@@ -9,6 +9,10 @@ body {
 
 }
 
+#Parrafo_para_utilizar_ID{
+    color: purple;
+}
+
 .Subtitulo{
     font-style: normal;
     color: indigo;
@@ -25,6 +29,13 @@ body {
 }
 
 
-@media screen {max-width: 320px;
-    
+@media (max-width: 320px) {
+    .contenedor-flex {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    p {
+        font-size: 1.25em;
+    }'
 }
